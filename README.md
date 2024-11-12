@@ -1,6 +1,7 @@
 ### Oliver
 
-Cybersecurity student learning everything I can
+
+Cybersecurity student learning everything I can. 🔒
 <!--
 **OliverFlahiff/OliverFlahiff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
